@@ -1,0 +1,6 @@
+[submodule "OpenGL-Registry"]
+	path = OpenGL-Registry
+	url = https://github.com/KhronosGroup/OpenGL-Registry.git
+[submodule "EGL-Registry"]
+	path = EGL-Registry
+	url = https://github.com/KhronosGroup/EGL-Registry.git
